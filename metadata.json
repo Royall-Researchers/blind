@@ -1,0 +1,5 @@
+{
+  "name": "VisionPro: Real-Time Object Detection",
+  "description": "A high-performance real-time object detection application using browser-based AI models for low-latency vision tasks.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
